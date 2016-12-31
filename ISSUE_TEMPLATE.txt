@@ -1,13 +1,13 @@
-ISSUE_TEMPLATE
 
-"Story Details"
-[] Task1
-[] Task2
+## Story/Task Details
+- [ ] Task1
+- [ ] Task2
+- [ ] Task3
 
-"Acceptance Scenarios"
-Given:
-When:
-Then:
+## Acceptance Scenarios
+- Given:
+- When:
+- Then:
 
-"Done Done Criteria"
+## Done Done Criteria
 
