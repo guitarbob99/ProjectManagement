@@ -1,5 +1,8 @@
-"Story Details"
+ISSUE_TEMPLATE
 
+"Story Details"
+[] Task1
+[] Task2
 
 "Acceptance Scenarios"
 Given:
